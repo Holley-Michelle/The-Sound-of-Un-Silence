@@ -1,4 +1,4 @@
-#📡 The Sound of Un-Silence: Social Engagement Signal Analysis
+📡 The Sound of Un-Silence: Social Engagement Signal Analysis
 
 The Sound of Un-Silence is a social engagement intelligence and signal analysis project designed to explore how organizations can transform fragmented engagement data into structured operational insight. Built using Python preprocessing workflows and Power BI visualization, the project combines automated data transformation, text normalization, enrichment logic, and dashboard storytelling to analyze audience engagement patterns across simulated social media datasets.
 
@@ -6,7 +6,7 @@ Rather than treating social engagement analytics as a simple dashboarding exerci
 
 The project supports downstream communications and operational insight analysis by transforming raw engagement activity into reusable analytical assets suitable for dashboarding, signal interpretation, and trend analysis.
 
-#🧩 File Overview
+🧩 File Overview
 File Name	Purpose
 Social_Engagement_Cleaning.ipynb	Python preprocessing and signal normalization workflow
 Engagement_Dataset.csv	Structured engagement dataset used for analysis
